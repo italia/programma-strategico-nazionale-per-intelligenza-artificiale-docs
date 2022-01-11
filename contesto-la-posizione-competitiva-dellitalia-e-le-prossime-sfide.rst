@@ -157,7 +157,7 @@ italiane che offrono prodotti e servizi IA, di cui:
    grandi. Tra questi, quelli di taglia più importante offrono servizi
    di gestione delle infrastrutture critiche e/o sicurezza informatica.
 
-**Figura 1:**\ *Imprese italiane che offrono prodotti IA, per settore*
+**Figura 1:**\  *Imprese italiane che offrono prodotti IA, per settore*
 
 .. image:: ./media/image7.jpg
 
@@ -196,7 +196,7 @@ pienamente operativi sono il manifatturiero** (22% del totale dei
 progetti iniziati), **bancario-finanziario** (16%) e le
 **assicurazioni** (10%).
 
-**Tabella 2:**\ *Progetti di IA nelle medio-grandi imprese italiane, per
+**Tabella 2:**\  *Progetti di IA nelle medio-grandi imprese italiane, per
 settore Categoria*
 
 .. image:: ./media/image8.jpg
@@ -240,7 +240,7 @@ considerano elementi come spesa industriale in ricerca e sviluppo,
 brevetti e applicazioni dell’intelligenza artificiale. La tabella 3
 riassume i principali indicatori.
 
-**Tabella 3:**\ *La posizione internazionale dell'Italia*
+**Tabella 3:**\  *La posizione internazionale dell'Italia*
 
 .. list-table:: 
    :widths: 50 25 25 25 25 25
@@ -443,108 +443,108 @@ promuovere d’ora in avanti per affrontare queste sfide.
    `Unità ELLIS <https://ellis.eu/units#pro%1Fle>`__\ \ \  `tre delle quali in Italia a Genova, Torino e Modena.`
 
 .. [4]
-   `Indagine CINI <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-
+   Indagine CINI <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-
    Lab AIIS National Assembly 2020: 229 donne e 936 uomini su un totale
    di 1167 membri; per i dati complessivi STEM si veda il Rapporto
    Fondazione Elsevier 2021: Gender in Research citato da Ansa il 24
-   luglio 2021.`
+   luglio 2021.
 
 .. [5]
-   `Confindustria,`\ \ \ `Digital Innovation
-   Hubs <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
+   Confindustria,`\ \ \  `Digital Innovation
+   Hubs <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.
 
 .. [6]
-   `Camere di Commercio d’Italia,`\ \ \ `Punto Impresa
-   Digitale <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
+   Camere di Commercio d’Italia,`\ \ \  `Punto Impresa
+   Digitale <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.
 
 .. [7]
-   `Centri di competenza ad alta
-   specializzazione`\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
+   Centri di competenza ad alta
+   specializzazione`\ \ \  `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.
 
 .. [8]
-   `Commissione europea,`\ \ \ `European Digital Innovation
-   Hubs <https://digital-strategy.ec.europa.eu/en/activities/edihs>`__\ \ \ `.`
+   Commissione europea,`\ \ \  `European Digital Innovation
+   Hubs <https://digital-strategy.ec.europa.eu/en/activities/edihs>`__\ \ \ `.
 
 .. [9]
-   `Politecnico di Milano,`\ \ \ `Osservatorio italiano
-   sull'IA <https://www.osservatori.net/it/home>`__\ \ \ `.`
+   Politecnico di Milano,`\ \ \  `Osservatorio italiano
+   sull'IA <https://www.osservatori.net/it/home>`__\ \ \ `.
 
 .. [10]
-   `Iscritta alla sezione start up innovative del Registro delle
-   Imprese della Camera di Commercio.`
+   Iscritta alla sezione start up innovative del Registro delle
+   Imprese della Camera di Commercio.
 
 .. [11]
-   `Osservatorio Italiano sull'IA, 2021, Il Mercato 2020
+   Osservatorio Italiano sull'IA, 2021, Il Mercato 2020
    dell'Intelligenza Artificiale in Italia: Applicazioni e Trend di
-   Sviluppo.`
+   Sviluppo.
 
 .. [12]
-   `Dati europei sulla spesa per l'IA forniti da Statista; Dati sul
-   PIL del FMI WEO.`
+   Dati europei sulla spesa per l'IA forniti da Statista; Dati sul
+   PIL del FMI WEO.
 
 .. [13]
-   `Commissione europea,`\ \ \ `EGovernment Benchmark
-   2020 <https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088>`__\ \ \ `.`
+   Commissione europea,`\ \ \  `EGovernment Benchmark
+   2020 <https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088>`__\ \ \ `.
 
 .. [14]
-   `Il confronto con i pari si è concentrato su Germania, Francia e
+   Il confronto con i pari si è concentrato su Germania, Francia e
    Regno Unito; questi paesi sono simili all'Italia per dimensione
    (popolazione), scolarizzazione, PIL e peso relativo dei diversi
-   settori sul PIL.`
+   settori sul PIL.
 
 .. [15]
-   `Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
-   expenditure in the EU at 2.19% of GDP in 2019"`
+   Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
+   expenditure in the EU at 2.19% of GDP in 2019"
 
 .. [16]
-   `Rapporto delle due righe precedenti.`
+   Rapporto delle due righe precedenti.
 
 .. [17]
-   `Aziende, istituti di ricerca, università, ecc. coinvolti nella
-   creazione di brevetti.`
+   Aziende, istituti di ricerca, università, ecc. coinvolti nella
+   creazione di brevetti.
 
 .. [18]
-   `Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
+   Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
    expenditure in the EU at 2.19% of GDP in 2019", e IMF: WEO October
-   2020.`
+   2020.
 
 .. [19]
-   `Numero di aziende "unicorni" focalizzate sull'IA.`
+   Numero di aziende "unicorni" focalizzate sull'IA.
 
 .. [20]
-   `Cfr. ad esempio Best Paper Award @NeurIPS (dicembre 2020) o
-   anche i risultati del CNR sull'IA applicata all'informatica.`
+   Cfr. ad esempio Best Paper Award @NeurIPS (dicembre 2020) o
+   anche i risultati del CNR sull'IA applicata all'informatica.
 
 .. [21]
-   `High-level working group della Commissione Nazionale Italiana
-   per l'UNESCO, 2021, Ricerca e sviluppo: quale futuro per l'Italia?`
+   High-level working group della Commissione Nazionale Italiana
+   per l'UNESCO, 2021, Ricerca e sviluppo: quale futuro per l'Italia?
 
 .. [22]
-   `Dati recuperati da`\ \ \  `Informatics
-   Europe <https://www.informatics-europe.org/data/higher-education/academic-salaries/phds-postdocs.html>`__\ \ \ `.`
+   Dati recuperati da`\ \ \  `Informatics
+   Europe <https://www.informatics-europe.org/data/higher-education/academic-salaries/phds-postdocs.html>`__\ \ \ `.
 
 .. [23]
-   `Aziende che forniscono servizi digitali ad altre aziende in
-   tutto il mondo per gestire la propria attività.`
+   Aziende che forniscono servizi digitali ad altre aziende in
+   tutto il mondo per gestire la propria attività.
 
 .. [24]
-   `Eurostat,
+   Eurostat,
    2020 <https://www.amcham.it/upload/documenti/5/57/572/5728.pdf>`__\ \ \ `,
    “Indagine sulle imprese europee sull'uso delle tecnologie basate
    sull'intelligenza artificiale”; con alcune statistiche
    dell'Osservatorio del Politecnico di Milano si osserva un 50% di
    adozioni per le aziende intervistate; Rapporto della Camera di
-   Commercio americana in Italia.`
+   Commercio americana in Italia.
 
 .. [25]
-   `Oltre il 50% delle aziende intervistate ha dichiarato che uno
+   Oltre il 50% delle aziende intervistate ha dichiarato che uno
    dei maggiori ostacoli è l'assenza di professionisti di IA
-   (Osservatorio IA del Politecnico di Milano, edizione 2020).`
+   (Osservatorio IA del Politecnico di Milano, edizione 2020).
 
 .. [26]
-   `Dati presentati <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Arti%22cial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ `da
+   Dati presentati <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Arti%22cial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \  `da
    McKinsey durante l'evento “The Future Is Now” tenutosi a Milano nel
-   2019.`
+   2019.
 
 .. |image0| image:: ./media/image2.png
    :width: 0.35069in
