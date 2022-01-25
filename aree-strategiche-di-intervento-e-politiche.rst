@@ -40,7 +40,9 @@ STEM in tutto il sistema dell’istruzione, così da favorire lo sviluppo
 di una forza lavoro in grado di interagire con l'IA e sfruttarne i
 benefici.
 
-**A1. Rafforzare il programma Nazionale di Dottorato**
+A1. Rafforzare il programma Nazionale di Dottorato
+++++
+
 
 **Questa misura mira a consolidare e ampliare complessivamente i corsi
 di dottorato italiani, con l'ambizione di assegnarne una quota adeguata
@@ -74,7 +76,8 @@ maggiore di studenti di IA e attirare studenti di talento dall'estero.
    l’assunzione dei ricercatori dalle imprese. €600 Mln concessi su base
    competitiva (approccio bottom-up).
 
-**A2. Attrarre e trattenere i ricercatori**
+A2. Attrarre e trattenere i ricercatori
+++++
 
 **Le carriere precarie e i lenti avanzamenti professionali spingono i
 talenti italiani verso Paesi con migliori opportunità e, allo stesso
@@ -102,7 +105,8 @@ Finanziare attività di ricerca gestite in autonomia da giovani ricercatori, che
 -  Programma Rita Levi Montalcini: 5 Mln/anno concesso su base
    competitiva (approccio bottom-up).
 
-**A3. Rafforzare le competenze di IA nella Pubblica Amministrazione**
+A3. Rafforzare le competenze di IA nella Pubblica Amministrazione
+++++
 
 **Una grande debolezza**\  [2]_ **della Pubblica Amministrazione in
 Italia è la quota limitata di dipendenti con lauree STEM, in particolare
@@ -130,7 +134,8 @@ PNRR M4C1 Investimento 4.1: Estensione del numero di dottorati di
 ricerca e dottorati innovativi. 430M concessi su base competitiva
 (approccio bottom-up).
 
-**A4. Promuovere corsi e carriere in materie STEM**
+A4. Promuovere corsi e carriere in materie STEM
+++++
 
 **Le materie STEM costituiscono la base per sviluppare le competenze e
 le carriere dell'IA. Pertanto, è importante stimolare l'interesse delle
@@ -156,7 +161,8 @@ attenzione alle pari opportunità.
 -  PNRR M4C1 Investimento 3.2: Scuola 4.0 - Scuole innovative, nuove
    aule didattiche e laboratori (2,1 Mld).
 
-**A5. Espandere l’IA negli ITS (“Istituti Tecnici Superiori”)**
+A5. Espandere l’IA negli ITS (“Istituti Tecnici Superiori”)
+++++
 
 **Il sistema di formazione ITS**\  [3]_ **deve rispondere alla domanda
 del mercato del lavoro di tecnici specializzati e formati per
@@ -193,19 +199,21 @@ innovazione, start-up e PMI e le competenze settoriali degli utenti.
 
 Le iniziative del programma di ricerca si dividono in due classi:
 
-**B.** Costruire l'ecosistema italiano della ricerca IA: ricerca
-fondamentale e applicata.
+B. Costruire l'ecosistema italiano della ricerca IA: ricerca fondamentale e applicata.
 
-**C.** Aspetti trasversali.
+C. Aspetti trasversali.
 
 **B. Costruire l'ecosistema italiano della ricerca IA: ricerca fondamentale e applicata**
+
+
 
 Queste iniziative sono state pensate per collegare le eccellenze
 esistenti e le attività territoriali in un unico piano di coordinamento
 nazionale. Sono concepiti per ottenere risultati sia a basso TRL
 (Technology Readiness Level) che vicini all’introduzione al mercato.
 
-**B1. Rafforzare l'ecosistema italiano della ricerca sull’IA**
+B1. Rafforzare l'ecosistema italiano della ricerca sull’IA
+++++
 
 **Un ecosistema strutturato è necessario per definire una grande massa
 critica, rafforzare le sinergie tra centri più piccoli e più grandi e
@@ -232,7 +240,8 @@ partenariato su 15 è rivolto alla ricerca sull'IA (approccio top-down)
 mentre aspetti dell'IA sono ritenuti cruciali nei restanti 14
 partenariati.
 
-**B2. Lanciare la piattaforma italiana di dati e software per la ricerca sull’IA**
+B2. Lanciare la piattaforma italiana di dati e software per la ricerca sull’IA
+++++
 
 **Una piattaforma unica condivisa da tutti gli ecosistemi italiani è
 necessaria per mantenere la proprietà intellettuale dei risultati
@@ -260,7 +269,8 @@ PNRR M4C2 Investimento 3.1: Fondo per la realizzazione di un sistema
 integrato di infrastrutture di ricerca e innovazione. 1,58 Mld concessi
 su base competitiva (approccio bottom-up).
 
-**B3. Creare cattedre italiane di ricerca sull'IA**
+B3. Creare cattedre italiane di ricerca sull'IA
+++++
 
 **Obiettivo**
 
@@ -283,7 +293,8 @@ territoriali.
 Fondo per la scienza (L.23 luglio 2021, n. 106): 50 Mln nel 2021 e 150
 Mln dal 2022 concessi su base competitiva (approccio bottom-up).
 
-**B4. Creare iniziative IA-PRIN per ricerca fondamentale**
+B4. Creare iniziative IA-PRIN per ricerca fondamentale
+++++
 
 **Obiettivo**
 
@@ -304,7 +315,8 @@ PNRR M4C2 Investimento 1.1: Fondo per il Programma Nazionale Ricerca
 (PNR) e progetti di Ricerca di Significativo Interesse Nazionale (PRIN).
 1,8 Mld concessi su base competitiva (approccio bottom-up).
 
-**B5. Promuovere campioni nazionali IA multidisciplinari**
+B5. Promuovere campioni nazionali IA multidisciplinari
+++++
 
 **Obiettivo**
 
@@ -328,7 +340,8 @@ Technologies. 1,6 Mld per 5 Centri Nazionali selezionati su base
 competitiva. Un centro su 5 si rivolge all'HPC (approccio top-down)
 mentre gli aspetti dell'IA sono cruciali nei restanti 4 centri.
 
-**B6. Lanciare bandi di ricerca-innovazione IA per collaborazioni pubblico-private**
+B6. Lanciare bandi di ricerca-innovazione IA per collaborazioni pubblico-private
+++++
 
 **Obiettivo**
 
@@ -354,7 +367,8 @@ competitiva (approccio bottom-up).
 
 **C. Aspetti trasversali**
 
-**C1. Finanziare ricerca e applicazioni dell’IA creativa**
+C1. Finanziare ricerca e applicazioni dell’IA creativa
+++++
 
 **Obiettivo**
 
@@ -388,7 +402,8 @@ neuroscienze, psicologi e persone creative.
    ricerca di base. 1,61 Mld per un massimo di 10 partnership
    selezionate su base competitiva.
 
-**C2. Promuovere progetti bilaterali per incentivare il rientro in Italia di professionisti**
+C2. Promuovere progetti bilaterali per incentivare il rientro in Italia di professionisti
+++++
 
 **Obiettivo**
 
@@ -493,7 +508,8 @@ Complessivamente le iniziative proposte mirano a:
 
 Pertanto, questa strategia propone le seguenti iniziative:
 
-**D1. Fare dell'IA un pilastro a supporto della Transizione 4.0 delle imprese**
+D1. Fare dell'IA un pilastro a supporto della Transizione 4.0 delle imprese
+++++
 
 **Obiettivo:**
 
@@ -538,7 +554,8 @@ dovrebbero essere considerati anche la sicurezza nazionale e le
 tecnologie dell'informazione. Dal secondo e terzo anno dovranno essere
 aggiunti tutti i settori prioritari.
 
-**D2. Sostenere la crescita di spin-off innovativi e start-up**
+D2. Sostenere la crescita di spin-off innovativi e start-up
+++++
 
 **Obiettivo**
 
@@ -577,7 +594,8 @@ infrastrutture e reti (in particolare comunicazione e servizi
 energetici), banche, finanza e assicurazioni e tecnologie
 dell'informazione.
 
-**D3. Promuovere e facilitare le sperimentazioni di tecnologie IA destinate al mercato**
+D3. Promuovere e facilitare le sperimentazioni di tecnologie IA destinate al mercato
+++++
 
 **Obiettivo**
 
@@ -601,7 +619,8 @@ limitati, prima della loro eventuale introduzione sul mercato.
 
 Tutti i settori prioritari.
 
-**D4. Supportare le imprese nella certificazione dei prodotti di IA**
+D4. Supportare le imprese nella certificazione dei prodotti di IA
+++++
 
 **Obiettivo**
 
@@ -633,7 +652,8 @@ settore IA.
 
 Tutti i settori prioritari.
 
-**D5. Promuovere campagne di informazione sull’IA per le imprese**
+D5. Promuovere campagne di informazione sull’IA per le imprese
+++++
 
 **Obiettivo**
 
@@ -662,7 +682,8 @@ PNRR M1C2 Investimento 1: Transizione 4.0 ( 13,38 Mld)
 
 Tutti i settori prioritari.
 
-**E. IA modernizzare la pubblica amministrazione**
+E. IA modernizzare la pubblica amministrazione
+++++
 
 Il passaggio al nuovo paradigma tecnologico basato sull'IA influenzerà
 fortemente la pubblica amministrazione. Grazie all’IA, infatti, la PA
@@ -687,7 +708,8 @@ adeguati.
 A tal fine, proponiamo le seguenti iniziative per la promozione dell'IA
 all'\ *interno* della PA e *per* la PA:
 
-**E1. Creare interoperabilità e dati aperti per favorire la creazione di modelli di IA**
+E1. Creare interoperabilità e dati aperti per favorire la creazione di modelli di IA
+++++
 
 **Obiettivo**
 
@@ -717,7 +739,7 @@ standard già esistenti e alla definizione di meccanismi di incentivi per
 i singoli gestori della PA, basati sulla conformità della loro struttura
 dati e dei servizi ai criteri indicati.
 
-**E2. Rafforzare le soluzioni IA nella PA e nell'ecosistema GovTech in Italia**
+E2. Rafforzare le soluzioni IA nella PA e nell'ecosistema GovTech in Italia
 
 **Obiettivo**
 
@@ -755,7 +777,8 @@ con il comitato tecnico del MITD [12]_, esegue la prima selezione delle
 start-up e fornisce il finanziamento iniziale, il mentoring e l'accesso
 a investitori di venture capital.
 
-**E3. Creare un dataset comune di lingua italiana per lo sviluppo dell'IA**
+E3. Creare un dataset comune di lingua italiana per lo sviluppo dell'IA
+++++
 
 **Obiettivo**
 
@@ -780,7 +803,8 @@ colmare il divario di scala tra aziende/servizi di intelligenza
 artificiale emergenti e le più grandi aziende tecnologiche
 internazionali che hanno accesso ai propri database privati.
 
-**E4. Creare banche dati e analisi basate su IA/NLP per feedback/miglioramento dei servizi**
+E4. Creare banche dati e analisi basate su IA/NLP per feedback/miglioramento dei servizi
+++++
 
 **Obiettivo**
 
@@ -798,7 +822,8 @@ rilevamento e previsione dei punti critici nei processi per identificare
 possibili soluzioni. Creare bandi specifici per fornire soluzioni per la
 PA scalabili a livello nazionale.
 
-**E5. Creare banca dati per analisi sofisticate su base IA/Computer vision per il miglioramento dei servizi nella PA**
+E5. Creare banca dati per analisi sofisticate su base IA/Computer vision per il miglioramento dei servizi nella PA
+++++
 
 **Obiettivo**
 
@@ -822,7 +847,8 @@ monitoraggio costiero e di confine; c) dati satellitari e delle
 videocamere urbane delle strade nazionali per la previsione e la
 gestione del traffico (e della navigazione) a breve e lungo termine.
 
-**E6. Introdurre tecnologie per condivisione e risoluzione di casi trasversali a varie autorità**
+E6. Introdurre tecnologie per condivisione e risoluzione di casi trasversali a varie autorità
+++++
 
 **Obiettivo**
 
