@@ -217,13 +217,11 @@ mantenendo una particolare attenzione alla diversità e all’equilibrio di
 genere.
 
 Per raggiungere i sei obiettivi di questa strategia, l'Italia è
-impegnata ad investire in **undici settori** prioritari. Tra questi sono
+impegnata ad investire in **undici settori prioritari**. Tra questi sono
 compresi quelli in cui l'Italia ha già un vantaggio competitivo, come i
 settori manifatturiero, culturale, agroalimentare e sanitario, ma anche
 industrie strategiche per lo sviluppo tecnologico del Paese, come la
 sicurezza nazionale, l'informatica e l'ambiente.
-
-**Settori prioritari**
 
 **Industria e manifatturiero.** L'IA consentirà al settore
 manifatturiero italiano, il secondo più grande in Europa e il settimo
