@@ -1,7 +1,7 @@
 --- 
 document: 
-  name: "Documento di prova"
-  short_name: doc-proca
+  name: "Programma strategico nazionale per l'intelligenza artificiale"
   description: "Descrizione"
   tags:
-    - Docs Italia
+    - ai
+    - ia
